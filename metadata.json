@@ -1,0 +1,8 @@
+{
+  "name": "FPTU Study Budget & Time Tracker",
+  "description": "Ứng dụng quản lý môn học, ngân sách giờ học theo slot FPTU, đồng hồ Pomodoro, task học tập và nhật ký tự đánh giá tuần.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
